@@ -1,0 +1,40 @@
+
+body {
+
+  width: 1200px;
+  margin: 0px auto;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  /* background-color: whitesmoke; */
+ 
+	padding: 20px;
+
+}
+
+li {
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 10px;
+    font-size: small;
+}
+
+a:link {
+  text-decoration: none;
+  color: grey;
+}
+
+
+h4 {
+  color: grey;
+  /* line-height: 1.5; */
+}
+
+e {
+  color: rgb(0, 240, 200);
+}
+
+
+
+

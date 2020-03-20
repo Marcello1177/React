@@ -1,0 +1,62 @@
+body {
+
+    width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+
+.card1 {
+    float: left;
+    width: 50%;    
+    background-color: rgb(51, 81, 87);
+}
+
+.card2 {
+
+
+    float: left;
+    width: 50%;
+    background-color: rgb(214, 233, 231);
+}
+
+.buttonPath1 {
+
+   background-color: rgb(0,240,200) ;
+   color: rgb(51, 81, 87);
+   border: 1px solid rgb(0, 240, 200);
+   margin-bottom: 15px;
+}
+
+.buttonPath2 {
+
+    background-color: rgb(0,240,200) ;
+    color: rgb(51, 81, 87);
+    border: 1px solid rgb(0, 240, 200);
+    margin-bottom: 15px;
+    margin-right: 30px;
+ }
+
+ .buttonPath3 {
+
+    background-color: rgb(0,240,200) ;
+    color: rgb(51, 81, 87);
+    border: 1px solid rgb(0, 240, 200);
+    margin-bottom: 15px;
+ }
+
+.description {
+
+    color: white;
+}
+
+.immersive {
+
+    color: rgb(51, 81, 87);
+}
+
+.icons {
+    font-size: x-large;
+    padding-top: 15px;
+}

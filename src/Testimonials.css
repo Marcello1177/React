@@ -1,0 +1,29 @@
+
+
+h3 {
+    margin-top: 20px;
+}
+
+.testName {
+
+    color: rgb(51, 81, 87);
+    font-weight: bold;
+}
+
+.test {
+
+    color: rgb(51, 81, 87);
+}
+
+.carousel {
+
+    background-color:rgb(236, 236, 236);
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.buttonGrad {
+
+    background-color: rgb(236, 236, 236);
+    border: 1px solid rgb(0, 240, 200);
+}
